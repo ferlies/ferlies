@@ -9,6 +9,7 @@
 ![Html](https://img.shields.io/badge/-html5-%23333?style=for-the-badge&logo=html5)
 ![Css](https://img.shields.io/badge/-css-%23333?style=for-the-badge&logo=css3)
 ![Mysql](https://img.shields.io/badge/-mysql-%23333?style=for-the-badge&logo=mysql)
+
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-git-%23333?style=for-the-badge&logo=git)
